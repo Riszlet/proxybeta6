@@ -1,0 +1,6 @@
+
+  services:
+  - type: web
+    name: commanderproxi
+    env: docker
+    plan: free
